@@ -1,3 +1,6 @@
 [submodule "rps-service"]
 	path = rps-service
 	url = https://github.com/vakoBeridze/rps-service
+[submodule "rps-web"]
+	path = rps-web
+	url = https://github.com/vakoBeridze/rps-web
