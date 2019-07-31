@@ -13,10 +13,16 @@ Server 'AI' is using Markov Chain to predict human's next move.
 - bot saves user selection for feature predictions
 
 ## Start application
-- One way is to start frontend and backend separately
+#### Clone project
+Application has submodules. Clone projects recursively.
+```
+git clone --recursive https://github.com/vakoBeridze/rps-game.git
+```
+#### Start project
+- One way to start project is to start frontend and backend separately
     - you can start backend application with java.
     - frontend is on ReactJS. NodeJS is required.
-- The second and easier way to start application is Docker. Just run
+- The second and easier way to start application is Docker. Just run:
 ```
 docker-compose up
 ```
