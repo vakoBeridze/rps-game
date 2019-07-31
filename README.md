@@ -1,4 +1,4 @@
-# Rock Paper Scissors api service
+# Rock Paper Scissors Game
 
 ### Game Description
 
